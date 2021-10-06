@@ -1,0 +1,7 @@
+D:\SQA\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\SQA\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\SQA\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\SQA\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\SQA\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\SQA\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\SQA\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
